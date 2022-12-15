@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Yq7SBaxCgFPPRDMOm8Q8h7fsoF8AFrYbexERwAewa2iccN/kLXX+bGi9EhsM/PtWjsTBH3IeWnq5VSMwavwI+w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Admin\\Downloads\\csb\\ProductReviewUsingLINQ-main\\ProductReviewUsingLINQ\\ProductReviewUsingLINQ.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.30\\microsoft.netcore.app.host.win-x64.3.1.30.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
